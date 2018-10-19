@@ -1,0 +1,4 @@
+.kenburns-left {
+	-webkit-animation: kenburns-left 5s ease-in-out both;
+	        animation: kenburns-left 5s ease-in-out both;
+}
